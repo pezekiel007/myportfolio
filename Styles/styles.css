@@ -1,0 +1,256 @@
+ul li a {
+    text-decoration: none;
+    color: #E00707;
+}
+
+ul li:hover {
+    border-bottom: 10px solid #030AAF;
+}
+
+.about-me {
+    /* About me */
+
+
+position: absolute;
+width: 349px;
+height: 136px;
+left: 1108px;
+top: 76px;
+
+/* Text */
+
+font-family: Ruluko;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 83px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #E00707;
+}
+
+.skills {
+    /* Skills */
+
+
+position: absolute;
+width: 154px;
+height: 83px;
+left: 1673px;
+top: 100px;
+
+/* Text */
+
+font-family: Ruluko;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 83px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #E00707;
+}
+
+.contact {
+    /* Contact me */
+
+
+position: absolute;
+width: 338px;
+height: 83px;
+left: 1998px;
+top: 100px;
+
+/* Text */
+
+font-family: Ruluko;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 83px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #E00707;
+}
+
+.home {
+    /* Home */
+
+
+position: absolute;
+width: 175px;
+height: 83px;
+left: 2622px;
+top: 100px;
+
+/* Text */
+
+font-family: Ruluko;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 83px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #E00707;
+}
+
+.img {
+    /* VzJjPuk53sk */
+
+
+position: absolute;
+width: 783px;
+height: 1149px;
+left: 2014px;
+top: 430px;
+
+border: 9px solid #E00707;
+box-sizing: border-box;
+}
+
+.rectangle {
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 1766px;
+height: 1149px;
+left: 125px;
+top: 430px;
+
+background: #030AAF;
+}
+
+h3 {
+    /* WARIBOKO, EZEKIEL PETERS */
+
+
+position: absolute;
+width: 1279px;
+height: 10px;
+left: 70px;
+top: 600px;
+
+/* Text */
+
+font-family: Ruluko;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 166px;
+display: flex;
+align-items: flex-end;
+
+color: #E00707;
+
+}
+
+.me {
+/* I am a web developer and a cybersecurity analyst. */
+
+
+position: absolute;
+width: 1497px;
+height: 211px;
+left: 80px;
+top: 620px;
+
+/* Text */
+
+font-family: Ruluko;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 83px;
+display: flex;
+align-items: center;
+
+color: #fff;
+}
+
+.small-rec {
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 1225px;
+height: 571px;
+left: 290px;
+top: 840px;
+
+border: 9px solid #E00707;
+box-sizing: border-box;
+}
+
+.lorem {
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus tincidunt mauris interdum senectus et pretium ante. Congue a, risus convallis */
+
+
+position: absolute;
+width: 1124px;
+height: 400px;
+left: 50px;
+top: 30px;
+
+/* Text */
+
+font-family: Ruluko;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 83px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #E00707;
+}
+
+button {
+    
+
+    /* Read more */
+
+
+/* position: absolute;
+width: 363px;
+height: 85px;
+left: 2500px;
+top: 1701px; */
+
+/* Text */
+
+font-family: Ruluko;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 83px;
+/* display: flex;
+align-items: center; */
+text-align: center;
+
+color: #FFFFFF;
+
+/* button */
+
+position: absolute;
+width: 599px;
+height: 169px;
+left: 1980px;
+top: 1250px;
+
+background: #E00707;
+opacity: 0.7;
+border: 9px solid #E00707;
+box-sizing: border-box;
+border-radius: 70px;
+}
